@@ -4,8 +4,7 @@ Overview
 This program provides a graphical user interface (GUI) to download YouTube videos and convert them to audio files.
 It offers two main functionalities: downloading YouTube videos and converting local or web videos to audio files.
 
-yto downloader
-convert
+PROGRAM CONTAINS: YT DOWNLOADER AND CONVERTER
 
 YouTube Downloader
 
